@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "trezor-connect": "trezor/connect"
+    "trezor-connect": "~1.0.0"
   }
 }
