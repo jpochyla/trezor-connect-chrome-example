@@ -1,0 +1,21 @@
+{
+  "name": "trezor-connect-chrome-example",
+  "authors": [
+    "Jan Pochyla <jpochyla@gmail.com>"
+  ],
+  "description": "Example of TREZOR Connect integration in a Chrome App.",
+  "main": "window.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "trezor-connect": "trezor/connect"
+  }
+}
